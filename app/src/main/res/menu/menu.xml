@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/options"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/lines"
+                android:checkable="true"
+                android:title="@string/lines" />
+            <item
+                android:id="@+id/coordinates"
+                android:checkable="true"
+                android:title="@string/coordinates" />
+            <item
+                android:id="@+id/number_showing"
+                android:checkable="true"
+                android:title="@string/number_showing" />
+            <item
+                android:id="@+id/density_menu"
+                android:checkable="true"
+                android:title="@string/density_menu" />
+            <item
+                android:id="@+id/color_changing"
+                android:checkable="true"
+                android:title="@string/color_changing" />
+            <item
+                android:id="@+id/rings"
+                android:checkable="true"
+                android:title="@string/rings" />
+            <item
+                android:id="@+id/vibration"
+                android:checkable="true"
+                android:title="@string/vibration" />
+        </menu>
+    </item>
+
+</menu>

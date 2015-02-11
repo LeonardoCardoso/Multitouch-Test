@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mehrfingereingabe Testen</string>
+    <string name="exit_application">Ausgang</string>
+    <string name="options">Optionen</string>
+    <string name="center_message">Berühren Sie</string>
+    <string name="color_changing">Zufällige Farben</string>
+    <string name="lines">Linien</string>
+    <string name="number_showing">Numbers</string>
+    <string name="coordinates">Koordinaten</string>
+    <string name="shadows">Schatten</string>
+    <string name="rings">Rings</string>
+    <string name="vibration">Vibration</string>
+    <string name="density_menu">Dichte</string>
+    <string name="density_text">Rasterdichte:</string>
+    <string name="update_button">Aktualisieren</string>
+    <string name="cancel_button">Kündigen</string>
+    <string name="current_touches">Aktuelle berührt</string>
+
+</resources>

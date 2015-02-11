@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="start_action_bar">#33b5e5</color>
+    <color name="end_action_bar">#0cc2ff</color>
+    <color name="start">#159ceb</color>
+    <color name="end">#00d3ff</color>
+    <color name="softer_blue">#a3e0ff</color>
+    <color name="soft_blue">#33b5e5</color>
+    <color name="dark_blue">#09c</color>
+    <color name="dark_green">#00bf12</color>
+    <color name="soft_red">#ffff0000</color>
+    <color name="soft_grey_select">#eee</color>
+    <color name="soft_grey_select_top">#e0dddd</color>
+    <color name="soft_red_alert_background">#ffd4d4</color>
+    <color name="honeycombish_blue">#159ceb</color>
+    <color name="soft_grey_split">#d0d0d0</color>
+    <color name="letter_grey">#969696</color>
+    <color name="softer_grey_split">#f0f0f0</color>
+    <color name="grey_background">#f6f6f6</color>
+    <color name="softest_grey">#f1f1f1</color>
+    <color name="almost_white_grey">#f8f8f8</color>
+    <color name="soft_grey">#777</color>
+    <color name="dark_grey">#252525</color>
+    <color name="darker_grey">#343434</color>
+    <color name="dark_grey_lighter">#323837</color>
+    <color name="dark_grey_light">#32383b</color>
+    <color name="background">#efefef</color>
+    <color name="dialog_border">#2f6699</color>
+    <color name="undo">#666</color>
+    <color name="button_text">#fff</color>
+
+    <!-- Shadow -->
+    <color name="zeroth_shadow">#00CCCCCC</color>
+    <color name="first_shadow">#10CCCCCC</color>
+    <color name="second_shadow">#20CCCCCC</color>
+    <color name="third_shadow">#30CCCCCC</color>
+    <color name="fourth_shadow">#50CCCCCC</color>
+
+    <!--  -->
+    <color name="pressed_example">#CC33B5E5</color>
+
+</resources>

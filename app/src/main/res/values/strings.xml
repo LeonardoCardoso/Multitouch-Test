@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="initials" translatable="false" />
+    <string name="empty" translatable="false" />
+    <string name="app_name">Multitouch Test</string>
+    <string name="exit_application">Exit</string>
+    <string name="options">Options</string>
+    <string name="center_message">Touch</string>
+    <string name="color_changing">Random Colors</string>
+    <string name="lines">Lines</string>
+    <string name="number_showing">Numbers</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="shadows">Shadows</string>
+    <string name="rings">Rings</string>
+    <string name="vibration">Vibration</string>
+    <string name="density_menu">Density</string>
+    <string name="density_text">Screen density:</string>
+    <string name="update_button">Update</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="current_touches">Current touches</string>
+
+</resources>

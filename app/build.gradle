@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "com.leocardz.multitouch.test"
+        minSdkVersion 7
+        targetSdkVersion 20
+        versionCode 19
+        versionName "2.2"
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    packagingOptions {
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:20.+'
+}

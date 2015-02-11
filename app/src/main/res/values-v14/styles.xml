@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Variation on the Holo Light theme that styles the Action Bar -->
+    <style name="App.Theme" parent="Theme.AppCompat.Light">
+        <item name="android:actionBarItemBackground">@drawable/p_ad_selectable_background</item>
+        <item name="android:popupMenuStyle">@style/MyPopupMenu</item>
+        <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item>
+        <item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item>
+        <item name="android:actionDropDownStyle">@style/MyDropDownNav</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/p_ad_btn_check_holo_light</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/p_ad_btn_radio_holo_light</item>
+        <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyOverflowButton</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <style name="App.ThemeMain" parent="App.Theme">
+        <item name="android:homeAsUpIndicator">@drawable/ic_drawer</item>
+    </style>
+
+    <style name="App.ThemeMainWhite" parent="App.Theme">
+        <item name="android:homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:dividerVertical">@drawable/divider_vertical_dark</item>
+    </style>
+
+    <style name="App.Theme.NoTitleBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">18dp</item>
+        <item name="android:paddingRight">18dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="MyOverflowButton" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_settings</item>
+        <item name="android:background">@drawable/p_ad_selectable_background</item>
+    </style>
+
+    <style name="MyActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="background">@drawable/p_background</item>
+        <item name="backgroundStacked">@drawable/p_actionbar_split</item>
+        <item name="backgroundSplit">@drawable/p_actionbar_split</item>
+        <item name="android:background">@drawable/p_background</item>
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:subtitleTextStyle">@style/MyTheme.ActionBar.SubtitleTextStyle</item>
+    </style>
+
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="MyTheme.ActionBar.SubtitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- style the overflow menu -->
+    <style name="MyPopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@drawable/drop_down</item>
+    </style>
+
+    <!-- style the items within the overflow menu -->
+    <style name="MyDropDownListView" parent="Widget.AppCompat.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/p_ad_selectable_background</item>
+    </style>
+
+    <!-- style for the tabs -->
+    <style name="MyActionBarTabStyle" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_example</item>
+    </style>
+
+    <!-- style the list navigation -->
+    <style name="MyDropDownNav" parent="Widget.AppCompat.Spinner.DropDown.ActionBar">
+        <item name="android:textSize">22sp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:popupBackground">@drawable/drop_down</item>
+    </style>
+
+    <style name="ListItem">
+        <item name="android:scaleType">center</item>
+        <item name="android:background">@drawable/p_list_view_item</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

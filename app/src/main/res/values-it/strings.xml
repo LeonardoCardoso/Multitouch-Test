@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test Multitocco</string>
+    <string name="exit_application">Uscita</string>
+    <string name="options">Opzioni</string>
+    <string name="center_message">Toccare</string>
+    <string name="color_changing">Colori Casuali</string>
+    <string name="lines">Linee</string>
+    <string name="number_showing">Numeri</string>
+    <string name="coordinates">Coordinate</string>
+    <string name="shadows">Ombre</string>
+    <string name="rings">Anelli</string>
+    <string name="vibration">Vibrazioni</string>
+    <string name="density_menu">Densità</string>
+    <string name="density_text">Densità dello schermo:</string>
+    <string name="update_button">Aggiornare</string>
+    <string name="cancel_button">Cancellare</string>
+    <string name="current_touches">Tocchi correnti</string>
+
+</resources>
