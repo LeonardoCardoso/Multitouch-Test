@@ -10,8 +10,8 @@ Source code of the app https://play.google.com/store/apps/details?id=com.leocard
 For more details, visit http://android.leocardz.com/multitouch-test/
 
 
-![](https://dl.dropboxusercontent.com/s/pp3484pnk6n2w7j/first.jpg)
+![](https://dl.dropboxusercontent.com/s/ezjd9t8kso35ok5/first.jpg)
 
-![](https://dl.dropboxusercontent.com/s/g0hse5d88632kcc/second.jpg)
+![](https://dl.dropboxusercontent.com/s/6g8cmtl2wdkhaxh/second.jpg)
 
-![](https://dl.dropboxusercontent.com/s/yi2k8o31zviqlua/third.jpg)
+![](https://dl.dropboxusercontent.com/s/w1et0wbd5ap9j1g/third.jpg)
