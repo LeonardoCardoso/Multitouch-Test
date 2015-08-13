@@ -5,7 +5,8 @@ Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@Leona
 
 A simple app to test the touch of your device. It measures and shows how accurate is the touch of your device, how many touches it supports, and there are some options to personalize the exhibition.
 
-Source code of the app https://play.google.com/store/apps/details?id=com.leocardz.multitouch.test&feature=search_result
+[![URL](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.leocardz.multitouch.test&feature=search_result)
+
 
 For more details, visit http://android.leocardz.com/multitouch-test/
 
