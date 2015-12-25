@@ -5,8 +5,8 @@ Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@Leona
 
 A simple app to test the touch of your device. It measures and shows how accurate is the touch of your device, how many touches it supports, and there are some options to personalize the exhibition.
 
-[![URL](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.leocardz.multitouch.test&feature=search_result)
-
+[![Get it on Google Play Store](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.leocardz.multitouch.test)
+[<img alt="Get it on F-Droid" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Get_it_on_F-Droid.svg" width="170" height="60" />](https://f-droid.org/repository/browse/?fdid=com.leocardz.multitouch.test)
 
 For more details, visit http://android.leocardz.com/multitouch-test/
 
@@ -26,7 +26,7 @@ For more details, visit http://android.leocardz.com/multitouch-test/
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+       https://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,

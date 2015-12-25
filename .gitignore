@@ -1,14 +1,26 @@
-# built application files
+# Temp files
+*~
+*.bak
+*.backup
+\#*
+.\#*
+*\#
+*.sav
+*.save
+*.autosav
+*.autosave
+
+# Built application files
 *.apk
 *.ap_
 
-# files for the dex VM
+# Files for the dex VM
 *.dex
 
 # Java class files
 *.class
 
-# generated files
+# Generated files
 bin/
 gen/
 out/
@@ -24,7 +36,8 @@ build/
 local.properties
 keystore.properties
 
-# Windows thumbnail db
+# Thumbnail db
+Thumbs.db
 .DS_Store
 
 # Idea non-crucial project fileS
