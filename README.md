@@ -17,6 +17,8 @@ For more details, visit http://android.leocardz.com/multitouch-test/
 
 ![](http://i.imgur.com/C0Dvvql.jpg)
 
+## Contact
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
 ## License
 
